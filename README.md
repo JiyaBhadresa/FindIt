@@ -184,14 +184,6 @@ Start the backend:
 .venv/bin/uvicorn main:app --reload --port 8001
 ```
 
-Backend URL:
-
-`http://127.0.0.1:8001`
-
-API Documentation:
-
-`http://127.0.0.1:8001/docs`
-
 ### 3. Frontend Setup
 
 Open a second terminal:
@@ -220,7 +212,6 @@ npm run dev
 
 Frontend URL:
 
-`http://localhost:5173`
 
 ---
 
